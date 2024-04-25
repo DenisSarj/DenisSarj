@@ -15,14 +15,13 @@
 ### 👨‍💻About Me :
 I am a Backend Developer <img src=https://cdn3.emoji.gg/emojis/5742-khinkali.png width="15" height=15> 
 - 🔭 I’m currently working on computer vision
-- 👯 I’m looking to collaborate on [FastApi](https://github.com/tiangolo/fastapi)
-- 📫 How to reach me: davidtscher@gmail.com
+- 📫 How to reach me: denissarjevsky@mail.ru
 - 😄 Pronouns: he/him
 ---
 
 ### 🛠️ Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
